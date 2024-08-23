@@ -1,6 +1,6 @@
 # NeuroVortex
 
-![NeuroVortex Logo]("NEURO%20Vortex.jpg")
+![NeuroVortex Logo](NEURO%20Vortex.jpg)
 
 ## Overview
 
