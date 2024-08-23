@@ -1,6 +1,8 @@
 # NeuroVortex
 
-![NeuroVortex Logo](NEURO%20Vortex.jpg)
+<p align="center">
+  <img src="images/logo.jpg" alt="NeuroVortex Logo" width="250" height="250">
+</p>
 
 ## Overview
 
