@@ -4,13 +4,14 @@
   <img src="images/logo.jpg" alt="NeuroVortex Logo" width="250" height="250">
 </p>
 
+## Overview
 Welcome to **Neuro Vortex**, an open-source community dedicated to advancing the field of artificial intelligence. We are driven by a passion for innovation and collaboration, focusing on the development of AI technologies that are accessible, transparent, and impactful.
 
-### Who We Are
+## Who We Are
 
 Neuro Vortex is a diverse collective of AI enthusiasts, developers, researchers, and innovators who believe in the transformative power of AI. Our primary areas of focus include digital twins, reinforcement learning, and AI-driven decision-making. By bringing together experts and learners from around the world, we aim to create a community where knowledge flows freely and innovation thrives.
 
-### Our Goal
+## Our Goal
 
 The goal of Neuro Vortex is to democratize AI by providing a platform where advanced technologies can be developed, shared, and refined by a global community. We strive to:
 
@@ -21,9 +22,6 @@ The goal of Neuro Vortex is to democratize AI by providing a platform where adva
 
 At Neuro Vortex, we believe that the future of AI is a collaborative journey. We invite you to join us, share your knowledge and ideas, and help shape the future of artificial intelligence.
 
-## Overview
-
-**NeuroVortex** is at the forefront of artificial intelligence, specializing in the development and application of machine learning, reinforcement learning, and simulation technologies. Our mission is to explore the vast potential of AI, crafting innovative solutions that empower intelligent decision-making across a variety of industries.
 
 ## Key Focus Areas
 
